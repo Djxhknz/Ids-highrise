@@ -1408,5 +1408,10 @@
     "name": "summoning",
     "id": "emote-summoning",
     "duration": 7
+  },
+  {
+    "name": "maincharacter",
+    "id": "emote-mascposing",
+    "duration": 10
   }
 ]
